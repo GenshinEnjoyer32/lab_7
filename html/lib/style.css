@@ -1,0 +1,461 @@
+.back {
+  width: 700px;
+  height: 1250px;
+  background: linear-gradient( #C97878, #3B4D8D, #3B4D8D);
+  margin-top: 80px;
+  margin-left: 350px;
+}
+
+.main {
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+.photo {
+  width: 259px;
+  height: 295px;
+  background-color: #FAF2F2;
+  border-radius: 20px;
+  float: left;
+}
+
+.directions {
+  width: 371px;
+  height: 295px;
+  background-color: #FAF2F2;
+  border-radius: 20px;
+  margin-left: 270px;
+}
+
+.contacts {
+  width: 258px;
+  height: 257px;
+  background-color: #FAF2F2;
+  border-radius: 20px;
+  float: left;
+}
+
+.edu {
+  width: 370px;
+  height: 257px;
+  background-color: #FAF2F2;
+  border-radius: 20px;
+  margin-left: 270px;
+  margin-top: 10px;
+}
+
+.langs {
+  width: 374px;
+  height: 181px;
+  background-color: #FAF2F2;
+  border-radius: 20px;
+  float: left;
+}
+
+.jobs {
+  width: 259px;
+  height: 181px;
+  background-color: #FAF2F2;
+  border-radius: 20px;
+  margin-left: 382px;
+  margin-top: 10px
+}
+
+.skills {
+  width: 244px;
+  height: 166px;
+  background-color: #FAF2F2;
+  border-radius: 20px;
+  float: left;
+}
+
+.p_langs {
+  width: 387px;
+  height: 166px;
+  background-color: #FAF2F2;
+  border-radius: 20px;
+  margin-left: 255px;
+  margin-top: 10px;
+}
+
+
+.hobbies {
+  width: 641px;
+  height: 124px;
+  background-color: #FAF2F2;
+  border-radius: 20px;
+  margin-top: 10px; 
+}
+
+.about {
+  width: 641px;
+  height: 124px;
+  background-color: #FAF2F2;
+  border-radius: 20px;
+  margin-top: 10px; 
+}
+
+
+.edu .text {
+  padding-top: 24px;
+}
+
+.edu img {
+  height: 69px;
+  width: 75px;
+  margin-top: 15px;
+  margin-left: 5px;;
+  float: left;
+}
+
+.edu .text strong{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+  margin-left: 20px;
+  color: #5B18E7;
+}
+
+.edu .text .rect {
+  width: 264px;
+  height: 5px;
+  background-color: #5B18E7;
+  margin-left: 90px;
+}
+
+.edu ul {
+  margin-top: 30px;
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.edu ul li:nth-child(1) {
+  list-style-type: none;
+  background: url(https://cdn3.iconfinder.com/data/icons/knowledges/44/educatiojn-16-256.png) no-repeat left center/2.5rem;
+  padding-left: 70px;
+}
+
+.edu ul li:nth-child(2) {
+  list-style-type: none;
+  background: url(https://cdn4.iconfinder.com/data/icons/neutro-interface/32/chevron-right-256.png) no-repeat left/2.3rem;
+  padding-left: 70px;
+  margin-top: 20px;
+}
+
+.edu ul li:nth-child(3) {
+  list-style-type: none;
+  background: url(https://cdn0.iconfinder.com/data/icons/users-android-l-lollipop-icon-pack/24/group2-256.png) no-repeat left/2.5rem;
+  padding-left: 70px;
+  margin-top: 20px;
+}
+
+.p_langs img {
+  height: 47px;
+  width: 41px;
+  margin-top: 10px;
+  margin-left: 5px;;
+  float: left;
+}
+
+.p_langs .text{
+  padding-top: 24px;;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 21px;
+  margin-left: 20px;;
+  color: #D92A54;
+}
+
+.p_langs ul {
+  list-style-type: square;
+  font-size: 24px;
+  margin-left: 15px;
+}
+
+
+.hobbies .text strong{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #FF8A00;
+  font-size: 32px;
+  margin-left: 15px;
+  float: left;
+}
+
+.hobbies .text .rect{
+  width: 416px;
+  height: 5px;
+  background-color: #FF8A00;
+  margin-left: 150px;
+  border-radius: 20px;
+}
+
+.hobbies img {
+  width: 68px;
+  height: 63px;
+  float: right
+}
+
+.hobbies p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #777575;
+  margin-left: 15px;
+}
+
+.about .text strong{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #0085FF;
+  font-size: 32px;
+  margin-left: 15px;
+  float: left;
+}
+
+.about .text .rect{
+  width: 416px;
+  height: 5px;
+  background-color: #0085FF;
+  margin-left: 150px;
+  border-radius: 20px;
+}
+
+.about img {
+  width: 55px;
+  height: 55px;
+  float: right
+}
+
+.about p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #777575;
+  margin-left: 15px;
+  text-align: justify;
+}
+
+.jobs img {
+  height: 58px;
+  width: 56px;
+  margin-top: 10px;
+  margin-left: 5px;;
+  float: left;
+}
+
+.jobs .text{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 27px;
+  padding-top: 25px;
+  color: #FF17DA;
+}
+
+.jobs ul {
+  margin-top: 20px;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.jobs ul li:nth-child(1) {
+  list-style-type: none;
+  background: url(https://cdn1.iconfinder.com/data/icons/material-core/18/check-256.png) no-repeat left center/1.5rem;
+  padding-left: 30px;
+}
+
+.jobs ul li:nth-child(2) {
+  list-style-type: none;
+  background: url(https://cdn1.iconfinder.com/data/icons/material-core/18/check-256.png) no-repeat left/1.5rem;
+  padding-left: 30px;
+  margin-top: 20px;
+}
+
+.skills .text {
+  width: 100px;
+  height: 30px;
+  border: 5px solid #D93F2A;
+  border-radius: 5px;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 70px;
+  color: #D93F2A;
+}
+
+
+.skills ul {
+  list-style-type: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.skills .rect_1 {
+  display: inline-block;
+  width: 25px;
+  height: 6px;
+  border-radius: 6px;
+  background-color: #D93F2A;
+  margin-left: 50px
+}
+.skills .rect_2 {
+  display: inline-block;
+  width: 35px;
+  height: 6px;
+  border-radius: 6px;
+  background-color: #D93F2A;
+  margin-left: 41px
+}
+.skills .rect_3 {
+  display: inline-block;
+  width: 70px;
+  height: 6px;
+  border-radius: 6px;
+  background-color: #D93F2A;
+  margin-left: 60px;
+}
+.skills .rect_4 {
+  display: inline-block;
+  width: 45px;
+  height: 6px;
+  border-radius: 6px;
+  background-color: #D93F2A;
+  margin-left: 54px;
+}
+.skills .rect_5 {
+  display: inline-block;
+  width: 19px;
+  height: 6px;
+  border-radius: 6px;
+  background-color: #D93F2A;
+  margin-left: 10px;
+}
+
+.langs img {
+  height: 80px;
+  width:80px;
+  margin-top: 10px;
+  margin-left: 5px;;
+  float: left;
+}
+
+.langs .text {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 34px;
+  color : #76A46B;
+  padding-top: 35px;
+}
+
+.langs ul {
+  margin-top: 20px;
+  margin-left: 25px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.langs .rect_1 {
+  display: inline-block;
+  width: 120px;
+  height: 21px;
+  border-radius: 6px;
+  background-color: #76A46B;
+  margin-left: 60px
+}
+
+.langs .rect_2 {
+  display: inline-block;
+  width: 60px;
+  height: 21px;
+  border-radius: 6px;
+  background-color: #76A46B;
+  margin-top: 10px;
+  margin-left: 10px
+}
+
+.contacts .text {
+  padding-top: 35px;
+}
+.contacts img{
+  height: 69px;
+  width: 75px;
+  margin-top: 15px;
+  margin-left: 5px;
+  float: left;
+}
+
+.contacts .text strong{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 28px;
+  margin-left: 2px;
+}
+
+.contacts ul {
+  margin-top: 30px;
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.contacts ul li:nth-child(1) {
+  list-style-type: none;
+  background: url(https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_local_phone_48px-256.png) no-repeat left center/1.7rem;
+  padding-left: 55px;
+}
+.contacts ul li:nth-child(2) {
+  list-style-type: none;
+  background: url(https://cdn0.iconfinder.com/data/icons/essentials-solid-glyphs-vol-1/100/Email-Letter-Mail-256.png) no-repeat left center/1.7rem;
+  padding-left: 55px;
+  margin-top: 20px;
+}
+.contacts ul li:nth-child(3) {
+  list-style-type: none;
+  background: url(https://cdn4.iconfinder.com/data/icons/user-interface-16x16-vol-1/16/pin-256.png) no-repeat left center/1.7rem;
+  padding-left: 55px;
+  margin-top: 20px;
+}
+.contacts ul li:nth-child(4) {
+  list-style-type: none;
+  background: url(https://cdn4.iconfinder.com/data/icons/social-media-black-white-2/1227/X-256.png) no-repeat left center/1.7rem;
+  padding-left: 55px;
+  margin-top: 17px;
+}
+
+.directions img{
+  width: 60px;
+  height: 60px;
+  background-color: #FF5656;
+  border-radius: 17px;
+  margin: 15px;
+  float: left;
+}
+
+.directions .logo .rect {
+  width: 282px;
+  height: 10px;
+  background-color: #FF5656;
+  margin-top: 19px;
+  margin-left: 50px;
+  border-radius: 20px;
+}
+
+.directions .logo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  padding-top: 25px;
+}
+
+.directions ul {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+
+.directions ul li:nth-child(1) {
+  list-style-type: none;
+  background: url(https://cdn0.iconfinder.com/data/icons/data-science-color/64/neural-network-machine-learning-algorithm-256.png) no-repeat left center/3.7rem;
+  padding-left: 70px;
+}
+
+.directions ul li:nth-child(2) {
+  list-style-type: none;
+  background: url(https://cdn1.iconfinder.com/data/icons/okku-office/32/Okku_Office_Expand-18-256.png) no-repeat left center/3.7rem;
+  padding-left: 70px;
+  margin-top: 40px;
+}
+
+.photo img{
+  width: 222px;
+  height: 264px;
+  border-radius: 20px;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+
